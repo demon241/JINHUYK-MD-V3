@@ -164,15 +164,5 @@
 -------------
 
 **DEVELOPERS**
-
-<table>
-  <tr>
-    <td>•JINHUYK-MD-V3•</td>
-    <td>Kang Jinhyuk</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/KangJinhuyk"><img src="https://i.postimg.cc/prRgWQPk/JINHUYK-BOT1.jpg" width="180"</td>
     
-    
-  </tr>
-</table>
+   <a href='https://pomf2.lain.la/f/crsiwkwa' target='_blank'><img src='https://pomf2.lain.la/f/crsiwkwa.jpg' border='0' alt='KANG_JINHUYK'/></a>
