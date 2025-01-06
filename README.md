@@ -46,12 +46,12 @@
 ----------
 1. SESSION D'UTILISATION 
 <p align="center">
-<a href="https://pair-session-kermv4-pair.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:1-black?style=for-the-badge&logo=render"></a>
+<a href="https://jinhuyk-v3-session.onrender.com/pair"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:1-black?style=for-the-badge&logo=render"></a>
 <p/>
 
 2. UTILISEZ LA SESSION 2 SI LA SESSION 1 NE FONCTIONNE PAS..
 <p align="center">
-<a href="https://twond-session-kermv4.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:2-black?style=for-the-badge&logo=render"></a>
+<a href="............"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:2-black?style=for-the-badge&logo=render"></a>
 <p/>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
