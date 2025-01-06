@@ -1,0 +1,9 @@
+-----------
+
+***WELCOME TO JINHUYK-MD-V3 PLUGINS LIST CREATED BY KANG JINHYUK 242**
+
+-----------
+
+***THE WORLD BEST WHATSAPP BOT***
+
+----------
