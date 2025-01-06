@@ -51,7 +51,7 @@
 
 2. UTILISEZ LA SESSION 2 SI LA SESSION 1 NE FONCTIONNE PAS..
 <p align="center">
-<a href="............"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:2-black?style=for-the-badge&logo=render"></a>
+<a href="https://jinhuyk-v3-session.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:2-black?style=for-the-badge&logo=render"></a>
 <p/>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
